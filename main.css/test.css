@@ -55,4 +55,35 @@ html{
 body{
     line-height: 1.6;
     width: 800px;
+    margin: 0 auto;
+    background-color: blueviolet;
 }
+
+.large{
+     font-style: italic;
+     font: bold;
+     color: bisque;
+}
+
+#small{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+
+#large{
+    font-style: normal;
+    font:bolder;
+    color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
