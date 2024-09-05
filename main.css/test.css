@@ -49,4 +49,10 @@ MAIN STYLES
 html{
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body{
+    line-height: 1.6;
+    width: 800px;
 }
